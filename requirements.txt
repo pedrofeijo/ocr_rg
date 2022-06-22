@@ -29,7 +29,7 @@ laser-geometry==1.6.4
 matplotlib==3.0.3
 message-filters==1.12.14
 networkx==2.4
-numpy==1.18.2
+numpy==1.22.0
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
 Pillow==7.0.0
